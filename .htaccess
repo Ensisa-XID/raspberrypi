@@ -1,0 +1,4 @@
+Options -Indexes
+
+ErrorDocument 404 /raspberrypi/index.html
+ErrorDocument 403 /raspberrypi/index.html
